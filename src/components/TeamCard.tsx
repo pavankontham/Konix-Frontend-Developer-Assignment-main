@@ -15,17 +15,17 @@ function TeamCard() {
           <Card
             name="John Smith"
             des="Designation here"
-            link=image_207
+            link={image_207}
           />
           <Card
             name="Elina Williams"
             des="Designation here"
-            link=image_208
+            link={image_208}
           />
           <Card
             name="John Smith"
             des="Designation here"
-            link=image_209
+            link={image_209}
           />
         </div>
       </div>
