@@ -1,4 +1,6 @@
 import { FaArrowRight } from "react-icons/fa";
+import Rectangle_11947 from "../assets/Rectangle_11947.png";
+import Rectangle_11948 from "../assets/Rectangle_11948.png";
 
 function About() {
   return (
@@ -61,7 +63,7 @@ function About() {
                 <div className="p-3">
                   <img
                     className="w-32 h-32 rounded-xl object-right object-cover"
-                    src="src\assets\Rectangle_11947.png"
+                    src={Rectangle_11947}
                     alt=""
                   />
                 </div>
@@ -81,7 +83,7 @@ function About() {
                 <div className="p-3">
                   <img
                     className="w-32 h-32 rounded-xl object-right object-cover"
-                    src="src\assets\Rectangle_11948.png"
+                    src={Rectangle_11948}
                     alt=""
                   />
                 </div>
