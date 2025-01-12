@@ -1,6 +1,6 @@
-import Jhon_Smith from "../assets/Jhon_Smith.png";
-import Elina from "../assets/Elina.png";
-import image from "../assets/image.png";
+import image_207 from "../assets/image_207.png";
+import image_208 from "../assets/image_208.png";
+import image_209 from "../assets/image_209.png";
 function TeamCard() {
   return (
     <div className="bg-white h-max rounded-lg my-5 lg:p-6 p-2">
@@ -15,17 +15,17 @@ function TeamCard() {
           <Card
             name="John Smith"
             des="Designation here"
-            link="Jhon_Smith"
+            link="image_207"
           />
           <Card
             name="Elina Williams"
             des="Designation here"
-            link="Elina"
+            link="image_208"
           />
           <Card
             name="John Smith"
             des="Designation here"
-            link="image"
+            link="image_209"
           />
         </div>
       </div>
